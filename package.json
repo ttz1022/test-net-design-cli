@@ -1,15 +1,15 @@
 {
-  "name": "test-xxx-cli",
+  "name": "test-net-design-cli",
   "version": "1.0.0",
   "description": "test",
   "main": "index.js",
   "bin": {
-    "test-xxx-cli": "./bin/test-xxx-cli.js"
+    "test-net-design-cli": "./bin/test-xxx-cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ttz",
+  "author": "ttz1022",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
